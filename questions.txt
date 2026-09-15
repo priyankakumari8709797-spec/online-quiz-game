@@ -1,0 +1,26 @@
+Web|What does HTML stand for?|Hyper Trainer Marking Language|Hyper Text Markup Language|Hyper Text Marketing Language|Hyper Text Markup Leveler|1
+Web|Which language runs in a web browser?|Java|C|Python|JavaScript|3
+Web|What does CSS stand for?|Cascading Style Sheets|Computer Style Sheets|Creative Style Sheets|Colorful Style Sheets|0
+Web|Which HTTP method is used to update a resource?|GET|POST|PUT|DELETE|2
+Web|What does REST stand for?|Representational State Transfer|Remote State Transfer|Representational Style Transfer|Reactive State Transfer|0
+Web|Which tag is used to link an external CSS file in HTML?|<style>|<css>|<link>|<script>|2
+Web|Which company develops React.js?|Google|Microsoft|Meta (Facebook)|Amazon|2
+Python|Which keyword is used to define a function in Python?|func|def|function|lambda|1
+Python|What is the output type of the input() function in Python?|int|str|float|bool|1
+Python|Which of these is a mutable data type in Python?|tuple|string|list|int|2
+Python|Which module is used for regular expressions in Python?|regex|re|pyregex|restring|1
+Python|What does PEP stand for in Python?|Python Enhancement Proposal|Python Execution Plan|Python Error Protocol|Python External Package|0
+C++|Which keyword is used to create a class in C++?|struct|object|class|define|2
+C++|What is the default access specifier in a C++ class?|public|protected|private|none|2
+C++|Which operator is used to allocate memory dynamically in C++?|malloc|new|alloc|create|1
+C++|Which header file is required for input/output in C++?|<iostream>|<stdio.h>|<conio.h>|<istream>|0
+C++|What is function overloading in C++?|Same function name, different parameters|Same function name, same parameters|Different function names, same body|Recursive functions|0
+DSA|What is the time complexity of binary search?|O(n)|O(log n)|O(n^2)|O(1)|1
+DSA|Which data structure uses FIFO order?|Stack|Queue|Tree|Graph|1
+DSA|Which sorting algorithm has the best average time complexity?|Bubble Sort|Merge Sort|Selection Sort|Insertion Sort|1
+DSA|Which data structure uses LIFO order?|Queue|Stack|Array|Linked List|1
+DSA|What is the worst-case time complexity of quicksort?|O(n log n)|O(n)|O(n^2)|O(log n)|2
+Database|Which of these is a NoSQL database?|MySQL|PostgreSQL|MongoDB|SQLite|2
+Database|Which SQL keyword removes duplicate rows from results?|UNIQUE|DISTINCT|FILTER|REMOVE|1
+Database|Which of these is used to uniquely identify a row in a table?|Foreign Key|Primary Key|Index|Trigger|1
+Database|Which SQL command is used to remove a table completely?|DELETE|DROP|REMOVE|TRUNCATE|1
